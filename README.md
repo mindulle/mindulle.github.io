@@ -21,3 +21,12 @@ This template should help get you started developing with Vue 3 and Typescript i
 ## Type Support For `.vue` Imports in TS
 
 Since TypeScript cannot handle type information for `.vue` imports, they are shimmed to be a generic Vue component type by default. In most cases this is fine if you don't really care about component prop types outside of templates. However, if you wish to get actual prop types in `.vue` imports (for example to get props validation when using manual `h(...)` calls), you can enable Volar's `.vue` type support plugin by running `Volar: Switch TS Plugin on/off` from VSCode command palette.
+
+
+포트폴리오 사이트가 될 예정.
+
+바빌론 + vue로
+1. 회전목마형 포트폴리오
+2. 건물 + 엘리베이터(디자인 층, 개발 층) / 사냥터(필드 - 실무) /우주(신기술 - 테섭) 같은 느낌의 맵을 아예 구현할지
+
+1, 2 중 선택해서 구현. 1도 빡
